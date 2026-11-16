@@ -167,6 +167,7 @@ else:
 ```
 ### Output:
 
+
 <img width="613" height="333" alt="image" src="https://github.com/user-attachments/assets/00ade020-e410-41c0-9f6a-294e0eb66b86" />
 
 
@@ -216,10 +217,16 @@ visualize_patterns_line(party_wear_result, "Party Wear")
 ```
 ### Output:
 
+
 <img width="1043" height="602" alt="image" src="https://github.com/user-attachments/assets/65e27675-e2e4-4595-bf48-1617546f55f6" />
+
+
+
 
 <img width="1056" height="640" alt="image" src="https://github.com/user-attachments/assets/cd9e4a44-8ae1-439b-91f7-86e486ea96db" />
 
+
 ### Result:
+
 
 Thus the implementation of the GSP algorithm in python has been successfully executed.
